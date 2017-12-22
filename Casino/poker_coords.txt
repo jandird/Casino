@@ -1,0 +1,33 @@
+pkr_highlight.png (201x147)
+ -> top left: (96, 32)
+ -> top right: (561, 32)
+ -> bottom left: (61, 452)
+ -> bottom right: (610, 452)
+
+buttons (34x34):
+ -> top left: (253, 124)
+ -> top right: (504, 124)
+ -> bottom left: (218, 414)
+ -> bottom right: (552, 414)
+
+name tags (300x20):
+ -> top left: (11, 10)
+ -> top right: (477, 10)
+ -> bottom left: (-26, 544)
+ -> bottom right: (524, 544)
+
+cards:
+ TL1 -> (105, 40)
+ TL2 -> (165, 40)
+ TR1 -> (570, 40)
+ TR2 -> (630, 40)
+ BL1 -> (70, 460)
+ BL2 -> (130, 460)
+ BR1 -> (620, 460)
+ BR2 -> (680, 460)
+
+balance: (300x20)
+ TL -> (11, 160)
+ TR -> (477, 160)
+ BL -> (-23, 390)
+ BR -> (526, 390)
